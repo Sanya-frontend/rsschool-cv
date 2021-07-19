@@ -21,3 +21,10 @@ console.log(aboutMe);
 
 ## Experience:
 No experience at the moment
+
+## Education:
+I read books on the specialty and watch educational videos on Udemy
+
+## Languages:
+* Native Russian
+* English(a1-a2) actively studying.
